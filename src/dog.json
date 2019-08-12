@@ -1,50 +1,50 @@
 [
   {
   "id": 1,
-  "image": "dog1.jpg"
+  "img": "dog1.jpg"
   },
   {
   "id": 2,
-  "image": "dog2.jpeg"
+  "img": "dog2.jpg"
   },
   {
   "id": 3,
-  "image": "dog3.jpg"
+  "img": "dog3.jpg"
   },
   {
   "id": 4,
-  "image": "dog4.jpg"
+  "img": "dog4.jpg"
   },
   {
   "id": 5,
-  "image": "dog5.jpg"
+  "img": "dog5.jpg"
   },
   {
   "id": 6,
-  "image": "dog6.jpg"
+  "img": "dog6.jpg"
   },
   {
   "id": 7,
-  "image": "dog7.jpg"
+  "img": "dog7.jpg"
   },
   {
   "id": 8,
-  "image": "dog8.jpg"
+  "img": "dog8.jpg"
   },
   {
   "id": 9,
-  "image": "dog9.jpg"
+  "img": "dog9.jpg"
   },
   {
   "id": 10,
-  "image": "dog10.jpg"
+  "img": "dog10.jpg"
   },
   {
   "id": 11,
-  "image": "dog11.jpg"
+  "img": "dog11.jpg"
   },
   {
   "id": 12,
-  "image": "dog12.jpg"
+  "img": "dog12.jpg"
   }
   ]

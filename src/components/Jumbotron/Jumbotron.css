@@ -6,8 +6,9 @@
   flex-flow: row wrap;
   padding: 20px;
   justify-content: space-around;
-  align-content: flex-start;
+  align-content: flex-center;
   overflow: auto;
+  width: 75%;
 }
 .header{
 	background-color: hsl(290, 89%, 75%);

@@ -74,7 +74,7 @@ class App extends Component {
               imageClick={this.imageClick}
               id={dog.id}
               key={dog.id}
-              image={dog.image}
+              img={dog.img}
             />
           ))}
         </div>
