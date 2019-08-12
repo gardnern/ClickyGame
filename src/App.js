@@ -2,7 +2,7 @@
 import React, { Component } from "react";
 import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
-import FriendCard from "./components/FriendCard";
+import DogCard from "./components/DogCard";
 import dog from "./dog.json";
 import "./App.css";
 
@@ -43,7 +43,7 @@ class App extends Component {
           ),
           score: this.state.score + 1
         },
-//if you get all 12 dog corrent you get a congrats message and the game resets        
+       
         () => {
           if (this.state.score === 12) {
             alert("You Win!");
@@ -60,7 +60,7 @@ class App extends Component {
     }
   };
 
-//the order of components to be rendered: navbar, jumbotron, friendcard, footer 
+
   render() {
     return (
       <div>
@@ -70,11 +70,11 @@ class App extends Component {
         <Jumbotron />
         <div className="wrapper">
           {this.state.dog.map(dog => (
-            <FriendCard
+            <DogCard
               imageClick={this.imageClick}
               id={dog.id}
               key={dog.id}
-              image={dog.images}
+              image={dog.image}
             />
           ))}
         </div>
