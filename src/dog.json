@@ -1,50 +1,73 @@
-[
-  {
-  "id": 1,
-  "img": "dog1.jpg"
+[{
+    "id": 1,
+    "name": "image1",
+    "img": "/img/dog1.jpg",
+    "clickedDog": false
   },
   {
-  "id": 2,
-  "img": "dog2.jpg"
+    "id": 2,
+    "name": "image2",
+    "img": "/img/dog2.jpg",
+    "clickedDog": false
   },
   {
-  "id": 3,
-  "img": "dog3.jpg"
+    "id": 3,
+    "name": "image3",
+    "img": "/img/dog3.jpg",
+    "clickedDog": false
   },
   {
-  "id": 4,
-  "img": "dog4.jpg"
+    "id": 4,
+    "name": "image4",
+    "img": "/img/dog4.jpg",
+    "clickedDog": false
   },
   {
-  "id": 5,
-  "img": "dog5.jpg"
+    "id": 5,
+    "name": "image5",
+    "img": "/img/dog5.jpg",
+    "clickedDog": false
   },
   {
-  "id": 6,
-  "img": "dog6.jpg"
+    "id": 6,
+    "name": "image6",
+    "img": "/img/dog6.jpg",
+    "clickedDog": false
   },
   {
-  "id": 7,
-  "img": "dog7.jpg"
+    "id": 7,
+    "name": "image7",
+    "img": "/img/dog7.jpg",
+    "clickedDog": false
   },
   {
-  "id": 8,
-  "img": "dog8.jpg"
+    "id": 8,
+    "name": "image8",
+    "img": "/img/dog8.jpg",
+    "clickedDog": false
   },
   {
-  "id": 9,
-  "img": "dog9.jpg"
+    "id": 9,
+    "name": "image9",
+    "img": "/img/dog9.jpg",
+    "clickedDog": false
   },
   {
-  "id": 10,
-  "img": "dog10.jpg"
+    "id": 10,
+    "name": "image10",
+    "img": "/img/dog10.jpg",
+    "clickedDog": false
   },
   {
-  "id": 11,
-  "img": "dog11.jpg"
+    "id": 11,
+    "name": "image11",
+    "img": "/img/dog11.jpg",
+    "clickedDog": false
   },
   {
-  "id": 12,
-  "img": "dog12.jpg"
+    "id": 12,
+    "name": "image12",
+    "img": "/img/dog12.jpg",
+    "clickedDog": false
   }
-  ]
+]

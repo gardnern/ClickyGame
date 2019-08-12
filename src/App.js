@@ -3,13 +3,13 @@ import React, { Component } from "react";
 import Navbar from "./components/Navbar";
 import Jumbotron from "./components/Jumbotron";
 import DogCard from "./components/DogCard";
-import dog from "./dog.json";
+import dog from "./dog";
 import "./App.css";
 
 //sets state to 0 or empty
 class App extends Component {
   state = {
-    dog,
+    dog: dog,
     clickedDog: [],
     score: 0
   };
