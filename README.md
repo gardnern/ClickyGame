@@ -1,8 +1,7 @@
-# Clicky Game
+# Doggo's Clicky Game
 
 
-## Overview
-![clickygame.JPG] 
+
 
 A memory game using React. The application is required to break up the UI into components, manage component state, and respond to user events.
 
