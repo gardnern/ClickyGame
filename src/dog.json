@@ -19,13 +19,13 @@
   {
     "id": 4,
     "name": "image4",
-    "img": "/img/dog4.jpg",
+    "img": "./img/dog4.jpg",
     "clickedDog": false
   },
   {
     "id": 5,
     "name": "image5",
-    "img": "/img/dog5.jpg",
+    "img": "./img/dog5.jpg",
     "clickedDog": false
   },
   {
