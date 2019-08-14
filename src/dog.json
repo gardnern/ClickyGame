@@ -1,13 +1,13 @@
 [{
     "id": 1,
     "name": "image1",
-    "img": "/img/dog1.jpg",
+    "img": "public/img/dog1.jpg",
     "clickedDog": false
   },
   {
     "id": 2,
     "name": "image2",
-    "img": "/img/dog2.jpg",
+    "img": "/public/img/dog2.jpg",
     "clickedDog": false
   },
   {
